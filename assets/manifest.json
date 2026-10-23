@@ -14282,8 +14282,9 @@
   "results/CC075_TC-087/extract-gpt__plan-doubao__adapt/video.mp4": {
     "tag": "media-3",
     "name": "asset-2380-c9492f686f55.mp4",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2380-c9492f686f55.mp4",
-    "bytes": 27556071
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2380-c9492f686f55.mp4",
+    "bytes": 27556071,
+    "hosting": "github-pages"
   },
   "results/CC075_TC-087/extract-gpt__plan-doubao__replicate/plan.json": {
     "tag": "media-3",
@@ -14312,8 +14313,9 @@
   "results/CC075_TC-087/extract-gpt__plan-doubao__replicate/video.mp4": {
     "tag": "media-3",
     "name": "asset-2385-be76ae034f96.mp4",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2385-be76ae034f96.mp4",
-    "bytes": 27526401
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2385-be76ae034f96.mp4",
+    "bytes": 27526401,
+    "hosting": "github-pages"
   },
   "results/CC075_TC-087/extract-gpt__plan-gpt__adapt/plan.json": {
     "tag": "media-3",
@@ -14342,8 +14344,9 @@
   "results/CC075_TC-087/extract-gpt__plan-gpt__adapt/video.mp4": {
     "tag": "media-3",
     "name": "asset-2390-5d3a44884ee2.mp4",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2390-5d3a44884ee2.mp4",
-    "bytes": 25319001
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2390-5d3a44884ee2.mp4",
+    "bytes": 25319001,
+    "hosting": "github-pages"
   },
   "results/CC075_TC-087/extract-gpt__plan-gpt__replicate/plan.json": {
     "tag": "media-3",
@@ -14372,8 +14375,9 @@
   "results/CC075_TC-087/extract-gpt__plan-gpt__replicate/video.mp4": {
     "tag": "media-3",
     "name": "asset-2395-652625e4a8bf.mp4",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2395-652625e4a8bf.mp4",
-    "bytes": 22344539
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2395-652625e4a8bf.mp4",
+    "bytes": 22344539,
+    "hosting": "github-pages"
   },
   "results/CC076_TC-088/extract-doubao__plan-doubao__adapt/plan.json": {
     "tag": "media-3",
@@ -14390,20 +14394,23 @@
   "results/CC076_TC-088/extract-doubao__plan-doubao__adapt/video-prompt-media.json": {
     "tag": "media-3",
     "name": "asset-2398-8df0a61c0912.json",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2398-8df0a61c0912.json",
-    "bytes": 2250
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2398-8df0a61c0912.json",
+    "bytes": 2250,
+    "hosting": "github-pages"
   },
   "results/CC076_TC-088/extract-doubao__plan-doubao__adapt/video-prompt.md": {
     "tag": "media-3",
     "name": "asset-2399-b117a30803eb.md",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2399-b117a30803eb.md",
-    "bytes": 3968
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2399-b117a30803eb.md",
+    "bytes": 3968,
+    "hosting": "github-pages"
   },
   "results/CC076_TC-088/extract-doubao__plan-doubao__adapt/video.mp4": {
     "tag": "media-3",
     "name": "asset-2400-d792b74cbfd0.mp4",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2400-d792b74cbfd0.mp4",
-    "bytes": 33288927
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2400-d792b74cbfd0.mp4",
+    "bytes": 33288927,
+    "hosting": "github-pages"
   },
   "results/CC076_TC-088/extract-doubao__plan-doubao__replicate/plan.json": {
     "tag": "media-3",
@@ -14432,8 +14439,9 @@
   "results/CC076_TC-088/extract-doubao__plan-doubao__replicate/video.mp4": {
     "tag": "media-3",
     "name": "asset-2405-0b901e0e00a4.mp4",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2405-0b901e0e00a4.mp4",
-    "bytes": 38129270
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2405-0b901e0e00a4.mp4",
+    "bytes": 38129270,
+    "hosting": "github-pages"
   },
   "results/CC076_TC-088/extract-doubao__plan-gpt__adapt/plan.json": {
     "tag": "media-3",
@@ -14462,8 +14470,9 @@
   "results/CC076_TC-088/extract-doubao__plan-gpt__adapt/video.mp4": {
     "tag": "media-3",
     "name": "asset-2410-b357fbc59aab.mp4",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2410-b357fbc59aab.mp4",
-    "bytes": 32461564
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2410-b357fbc59aab.mp4",
+    "bytes": 32461564,
+    "hosting": "github-pages"
   },
   "results/CC076_TC-088/extract-doubao__plan-gpt__replicate/plan.json": {
     "tag": "media-3",
@@ -14492,32 +14501,37 @@
   "results/CC076_TC-088/extract-doubao__plan-gpt__replicate/video.mp4": {
     "tag": "media-3",
     "name": "asset-2415-779d47ac6880.mp4",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2415-779d47ac6880.mp4",
-    "bytes": 32540561
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2415-779d47ac6880.mp4",
+    "bytes": 32540561,
+    "hosting": "github-pages"
   },
   "results/CC077_TC-089/extract-gpt__plan-doubao__adapt/plan.json": {
     "tag": "media-3",
     "name": "asset-2416-7cc406549a7d.json",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2416-7cc406549a7d.json",
-    "bytes": 6080
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2416-7cc406549a7d.json",
+    "bytes": 6080,
+    "hosting": "github-pages"
   },
   "results/CC077_TC-089/extract-gpt__plan-doubao__adapt/video-job.json": {
     "tag": "media-3",
     "name": "asset-2417-f34a5156facf.json",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2417-f34a5156facf.json",
-    "bytes": 1804
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2417-f34a5156facf.json",
+    "bytes": 1804,
+    "hosting": "github-pages"
   },
   "results/CC077_TC-089/extract-gpt__plan-doubao__adapt/video-prompt-media.json": {
     "tag": "media-3",
     "name": "asset-2418-c9a8f85321f7.json",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2418-c9a8f85321f7.json",
-    "bytes": 1477
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2418-c9a8f85321f7.json",
+    "bytes": 1477,
+    "hosting": "github-pages"
   },
   "results/CC077_TC-089/extract-gpt__plan-doubao__adapt/video-prompt.md": {
     "tag": "media-3",
     "name": "asset-2419-90a0d9a15783.md",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2419-90a0d9a15783.md",
-    "bytes": 4059
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2419-90a0d9a15783.md",
+    "bytes": 4059,
+    "hosting": "github-pages"
   },
   "results/CC077_TC-089/extract-gpt__plan-doubao__adapt/video.mp4": {
     "tag": "media-3",
@@ -14528,8 +14542,9 @@
   "results/CC077_TC-089/extract-gpt__plan-doubao__replicate/plan.json": {
     "tag": "media-3",
     "name": "asset-2421-666dff909a49.json",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2421-666dff909a49.json",
-    "bytes": 13673
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2421-666dff909a49.json",
+    "bytes": 13673,
+    "hosting": "github-pages"
   },
   "results/CC077_TC-089/extract-gpt__plan-doubao__replicate/video-job.json": {
     "tag": "media-3",
@@ -14564,8 +14579,9 @@
   "results/CC077_TC-089/extract-gpt__plan-gpt__adapt/video-job.json": {
     "tag": "media-3",
     "name": "asset-2427-f5359c364f99.json",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2427-f5359c364f99.json",
-    "bytes": 1927
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2427-f5359c364f99.json",
+    "bytes": 1927,
+    "hosting": "github-pages"
   },
   "results/CC077_TC-089/extract-gpt__plan-gpt__adapt/video-prompt-media.json": {
     "tag": "media-3",
@@ -14582,68 +14598,79 @@
   "results/CC077_TC-089/extract-gpt__plan-gpt__adapt/video.mp4": {
     "tag": "media-3",
     "name": "asset-2430-e085030baed5.mp4",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2430-e085030baed5.mp4",
-    "bytes": 18679852
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2430-e085030baed5.mp4",
+    "bytes": 18679852,
+    "hosting": "github-pages"
   },
   "results/CC077_TC-089/extract-gpt__plan-gpt__replicate/plan.json": {
     "tag": "media-3",
     "name": "asset-2431-96aa7f5206d0.json",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2431-96aa7f5206d0.json",
-    "bytes": 12840
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2431-96aa7f5206d0.json",
+    "bytes": 12840,
+    "hosting": "github-pages"
   },
   "results/CC077_TC-089/extract-gpt__plan-gpt__replicate/video-job.json": {
     "tag": "media-3",
     "name": "asset-2432-6d0c964c6407.json",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2432-6d0c964c6407.json",
-    "bytes": 2084
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2432-6d0c964c6407.json",
+    "bytes": 2084,
+    "hosting": "github-pages"
   },
   "results/CC077_TC-089/extract-gpt__plan-gpt__replicate/video-prompt-media.json": {
     "tag": "media-3",
     "name": "asset-2433-3a9acdbef14c.json",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2433-3a9acdbef14c.json",
-    "bytes": 1747
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2433-3a9acdbef14c.json",
+    "bytes": 1747,
+    "hosting": "github-pages"
   },
   "results/CC077_TC-089/extract-gpt__plan-gpt__replicate/video-prompt.md": {
     "tag": "media-3",
     "name": "asset-2434-bea6a63a4c1d.md",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2434-bea6a63a4c1d.md",
-    "bytes": 8929
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2434-bea6a63a4c1d.md",
+    "bytes": 8929,
+    "hosting": "github-pages"
   },
   "results/CC077_TC-089/extract-gpt__plan-gpt__replicate/video.mp4": {
     "tag": "media-3",
     "name": "asset-2435-c9b5d8e6a4da.mp4",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2435-c9b5d8e6a4da.mp4",
-    "bytes": 18288574
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2435-c9b5d8e6a4da.mp4",
+    "bytes": 18288574,
+    "hosting": "github-pages"
   },
   "results/CC079_TC-091/extract-doubao__plan-doubao__adapt/plan.json": {
     "tag": "media-3",
     "name": "asset-2436-5b66b75f7a0a.json",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2436-5b66b75f7a0a.json",
-    "bytes": 6043
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2436-5b66b75f7a0a.json",
+    "bytes": 6043,
+    "hosting": "github-pages"
   },
   "results/CC079_TC-091/extract-doubao__plan-doubao__adapt/video-job.json": {
     "tag": "media-3",
     "name": "asset-2437-374a853ebb72.json",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2437-374a853ebb72.json",
-    "bytes": 1845
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2437-374a853ebb72.json",
+    "bytes": 1845,
+    "hosting": "github-pages"
   },
   "results/CC079_TC-091/extract-doubao__plan-doubao__adapt/video-prompt-media.json": {
     "tag": "media-3",
     "name": "asset-2438-05bfc5d5b991.json",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2438-05bfc5d5b991.json",
-    "bytes": 1519
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2438-05bfc5d5b991.json",
+    "bytes": 1519,
+    "hosting": "github-pages"
   },
   "results/CC079_TC-091/extract-doubao__plan-doubao__adapt/video-prompt.md": {
     "tag": "media-3",
     "name": "asset-2439-f203ea3ed166.md",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2439-f203ea3ed166.md",
-    "bytes": 3990
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2439-f203ea3ed166.md",
+    "bytes": 3990,
+    "hosting": "github-pages"
   },
   "results/CC079_TC-091/extract-doubao__plan-doubao__adapt/video.mp4": {
     "tag": "media-3",
     "name": "asset-2440-8a2f8ee5b7ba.mp4",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2440-8a2f8ee5b7ba.mp4",
-    "bytes": 30350143
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2440-8a2f8ee5b7ba.mp4",
+    "bytes": 30350143,
+    "hosting": "github-pages"
   },
   "results/CC079_TC-091/extract-doubao__plan-doubao__replicate/plan.json": {
     "tag": "media-3",
@@ -14672,8 +14699,9 @@
   "results/CC079_TC-091/extract-doubao__plan-doubao__replicate/video.mp4": {
     "tag": "media-3",
     "name": "asset-2445-a9afa49dc6cb.mp4",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2445-a9afa49dc6cb.mp4",
-    "bytes": 35028787
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2445-a9afa49dc6cb.mp4",
+    "bytes": 35028787,
+    "hosting": "github-pages"
   },
   "results/CC079_TC-091/extract-doubao__plan-gpt__adapt/plan.json": {
     "tag": "media-3",
@@ -14696,43 +14724,50 @@
   "results/CC079_TC-091/extract-doubao__plan-gpt__adapt/video-prompt.md": {
     "tag": "media-3",
     "name": "asset-2449-2702115fa8c5.md",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2449-2702115fa8c5.md",
-    "bytes": 7786
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2449-2702115fa8c5.md",
+    "bytes": 7786,
+    "hosting": "github-pages"
   },
   "results/CC079_TC-091/extract-doubao__plan-gpt__adapt/video.mp4": {
     "tag": "media-3",
     "name": "asset-2450-aeff11ad01bb.mp4",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2450-aeff11ad01bb.mp4",
-    "bytes": 33221189
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2450-aeff11ad01bb.mp4",
+    "bytes": 33221189,
+    "hosting": "github-pages"
   },
   "results/CC079_TC-091/extract-doubao__plan-gpt__replicate/plan.json": {
     "tag": "media-3",
     "name": "asset-2451-c3d394dba56f.json",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2451-c3d394dba56f.json",
-    "bytes": 14741
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2451-c3d394dba56f.json",
+    "bytes": 14741,
+    "hosting": "github-pages"
   },
   "results/CC079_TC-091/extract-doubao__plan-gpt__replicate/video-job.json": {
     "tag": "media-3",
     "name": "asset-2452-7e7deea0bf78.json",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2452-7e7deea0bf78.json",
-    "bytes": 2229
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2452-7e7deea0bf78.json",
+    "bytes": 2229,
+    "hosting": "github-pages"
   },
   "results/CC079_TC-091/extract-doubao__plan-gpt__replicate/video-prompt-media.json": {
     "tag": "media-3",
     "name": "asset-2453-347b72624d44.json",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2453-347b72624d44.json",
-    "bytes": 1892
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2453-347b72624d44.json",
+    "bytes": 1892,
+    "hosting": "github-pages"
   },
   "results/CC079_TC-091/extract-doubao__plan-gpt__replicate/video-prompt.md": {
     "tag": "media-3",
     "name": "asset-2454-d41eae3c613b.md",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2454-d41eae3c613b.md",
-    "bytes": 9430
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2454-d41eae3c613b.md",
+    "bytes": 9430,
+    "hosting": "github-pages"
   },
   "results/CC079_TC-091/extract-doubao__plan-gpt__replicate/video.mp4": {
     "tag": "media-3",
     "name": "asset-2455-074806a40a1d.mp4",
-    "url": "https://github.com/g37613182-tech/creative-cross-model-test-20261023/releases/download/media-3/asset-2455-074806a40a1d.mp4",
-    "bytes": 37541688
+    "url": "https://g37613182-tech.github.io/creative-cross-model-test-20261023/media/asset-2455-074806a40a1d.mp4",
+    "bytes": 37541688,
+    "hosting": "github-pages"
   }
 }

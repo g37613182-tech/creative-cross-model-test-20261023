@@ -1,0 +1,27 @@
+{
+  "status": "completed",
+  "created_at": "2026-10-23T03:17:42.157393+00:00",
+  "fingerprint": "e78e11e332a0cd9ab46f8b2f8a4199e67c57a6c5e6332df9b0a66f2fc88ea9f7",
+  "plan_path": "/Users/bytedance/Documents/ChatGPT/视频创意参考/marketing-studio-experiment/output/studio/tasks/12a94a4b16073c30/plan/001/template__c0bfa2782660/plan.gpt.json",
+  "plan_sha256": "5ba5498bb4349e491a266e97bd3cd5e45ed44d5f603b136bcd16bc747a3f1447",
+  "prompt_sha256": "cbab56ed3bbcb5e3ca7fdcb1ee1ec9c92696d1c9497c2ef281ae3a732ecb0138",
+  "duration_ms": 15000,
+  "assets": [
+    {
+      "name": "product_image_01",
+      "desc": "一只正面居中的 VELORA KOMBUCHA BARRIER CREAM 闭合罐装商品。罐体矮宽、圆柱形，呈雾面半透明浅米白色并带厚实圆润底部；顶部是宽大的暖香槟金色拉丝圆柱盖。正面可读深棕色文字“VELORA”“KOMBUCHA BARRIER CREAM”“50 ML / 1.7 FL. OZ.”，背景为高亮白色。",
+      "usage": "作为全片唯一商品外观依据，用于锁定罐体比例、闭合状态、金盖尺寸与拉丝方向、磨砂玻璃质感、暖白与香槟金配色以及正面文字。不得依据该图虚构开盖结构、内部膏体、成分、使用动作或功效表现。",
+      "path": "/Users/bytedance/Documents/ChatGPT/视频创意参考/marketing-studio-experiment/output/studio/tasks/12a94a4b16073c30/inputs/product/images/01.png",
+      "mime_type": "image/png",
+      "sha256": "86e28f5e9b15c7812fecbddb60618bedc97d63569ca02b2b28894e5dfa221e11",
+      "bytes": 2274938,
+      "width": 1536,
+      "height": 2048,
+      "position": 1,
+      "prompt_reference": "@图片1"
+    }
+  ],
+  "conversion_mode": "direct",
+  "validation_scope": "none",
+  "content_review": "not_performed"
+}

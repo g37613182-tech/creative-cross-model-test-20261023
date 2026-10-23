@@ -1,0 +1,38 @@
+{
+  "status": "accepted",
+  "created_at": "2026-10-22T22:32:37.683749+00:00",
+  "fingerprint": "b6ba7fd0b239ac294b64e253fccbda0a3dcb2d03deab46ff6f0f34617db59f40",
+  "prompt_path": "/Users/bytedance/Documents/ChatGPT/视频创意参考/marketing-studio-experiment/output/studio/tasks/a8ef8f10f479523c/prompt/001/video-prompt.md",
+  "config": {
+    "model": "seedance2.5",
+    "duration": 22,
+    "ratio": "9:16",
+    "resolution": "720p",
+    "session": 0,
+    "prompt_sha256": "bb676d7df172d7aff45de406e5eba37800376e5e9217f9ffce17c962b15ba1b6",
+    "assets": [
+      {
+        "name": "product_image_01",
+        "desc": "亚马逊商品主图为白底合成图：左侧是一罐带冷凝水珠的OLIPOP Crisp Apple正面大图，罐身亮黄色，顶部和底部为银色金属，深绿色OLIPOP字样环绕红苹果图案，下方为酒红色“crisp apple”；罐身侧边可见5g sugar、6g fiber、40 cal，底部可见12 fl oz。右侧为多罐阵列，并带有后期信息块“6g Fiber”和“12 Pack”。",
+        "usage": "用于锁定单罐真实外观、色彩、正面标签、罐体比例及12罐装销售规格；生成动态镜头时去除白底和原图后期信息块，重新在深绿色场景中构建罐体与阵列。原图只清晰支持正面和有限侧面，不虚构背标、配料表或不可见内部结构。水珠可作为冷藏饮用氛围延续。",
+        "path": "/Users/bytedance/Documents/ChatGPT/视频创意参考/marketing-studio-experiment/output/studio/tasks/a8ef8f10f479523c/inputs/product/images/01.jpg",
+        "mime_type": "image/jpeg",
+        "sha256": "26472a4e84bf33a2f57139441b4571449a0a4c3549be0d42b183254ccc91d08e",
+        "bytes": 115210,
+        "width": 1500,
+        "height": 1500,
+        "position": 1,
+        "prompt_reference": "@图片1"
+      }
+    ]
+  },
+  "download_dir": "/Users/bytedance/Documents/ChatGPT/视频创意参考/marketing-studio-experiment/output/studio/tasks/a8ef8f10f479523c/result",
+  "submit_id": "f8f3b7d9-bb5a-44e5-835b-aad9c61adf7c",
+  "gen_status": "success",
+  "fail_reason": null,
+  "submit_exit_code": 0,
+  "updated_at": "2026-10-22T22:43:43.635584+00:00",
+  "query_count": 14,
+  "last_query_exit_code": 0,
+  "query_ok": true
+}

@@ -1,0 +1,40 @@
+{
+  "status": "completed",
+  "created_at": "2026-10-23T03:13:09.825447+00:00",
+  "fingerprint": "d8a5315c40c88146328c63895128be3a91fa247a31b46e570917cb54483742c3",
+  "plan_path": "/Users/bytedance/Documents/ChatGPT/视频创意参考/marketing-studio-experiment/output/studio/tasks/f9a0be6b44245769/plan/001/template__f47a75474649__adapt/plan.doubao.json",
+  "plan_sha256": "863db814059a1255b1e14d6d71b4c81ab717d64ba9a46268b87e4d5973742988",
+  "prompt_sha256": "6d17f056d0be0ad5113bda056f67a7f14178dc674639252f8107eb9e2ee61207",
+  "duration_ms": 23000,
+  "assets": [
+    {
+      "name": "avatar_01_ref_01",
+      "desc": "浅肤色年轻东亚男性，深色短卷发，身着浅蓝条纹敞开衬衫内搭白背心，站在复古轻奢酒店套房内，背景有复古金属吊灯、丝绒红椅、宽大床铺，整体被暖金色夕阳光包裹。",
+      "usage": "作为核心人物的外观参考与开场场景参考，保留人物松弛随性的都市漫游气质。",
+      "path": "/Users/bytedance/Documents/ChatGPT/视频创意参考/marketing-studio-experiment/output/studio/tasks/f9a0be6b44245769/inputs/template/images/avatar_01.webp",
+      "mime_type": "image/png",
+      "sha256": "93b850439ea8f6785c9ce77b090082568dcc60288dbbec4fc2121c5941ed5b3a",
+      "bytes": 1636886,
+      "width": 1080,
+      "height": 1440,
+      "position": 1,
+      "prompt_reference": "@图片1"
+    },
+    {
+      "name": "product_image_01",
+      "desc": "黑色Under Armour男士Tech Golf Polo正视图，左胸印有灰色品牌标识，3扣门襟带有灰色线条装饰，同面料衣领，合身短袖版型。",
+      "usage": "作为商品外观、品牌标识、门襟与衣领结构的细节参考，保障商品呈现准确。",
+      "path": "/Users/bytedance/Documents/ChatGPT/视频创意参考/marketing-studio-experiment/output/studio/tasks/f9a0be6b44245769/inputs/product/images/01.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "a2f2c9fcd45a0ad09e1f8be65a7aed944d1999d595dd99d940c7c1078d0bdf54",
+      "bytes": 29698,
+      "width": 560,
+      "height": 999,
+      "position": 2,
+      "prompt_reference": "@图片2"
+    }
+  ],
+  "conversion_mode": "direct",
+  "validation_scope": "none",
+  "content_review": "not_performed"
+}

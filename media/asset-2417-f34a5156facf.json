@@ -1,0 +1,38 @@
+{
+  "status": "accepted",
+  "created_at": "2026-10-23T03:17:11.277495+00:00",
+  "fingerprint": "fa285197bade396764dc001706194b8cd931226de6ff285a8e82fe1296e96a3a",
+  "prompt_path": "/Users/bytedance/Documents/ChatGPT/视频创意参考/marketing-studio-experiment/output/studio/tasks/2848ce1e52c9e4e2/prompt/001/video-prompt.md",
+  "config": {
+    "model": "seedance2.5",
+    "duration": 15,
+    "ratio": "9:16",
+    "resolution": "720p",
+    "session": 0,
+    "prompt_sha256": "f06eac6bc4166f98266803999b21a05776803e9ff4971fb810b1dc1904e9a803",
+    "assets": [
+      {
+        "name": "product_image_01",
+        "desc": "浅米色磨砂雾面玻璃罐身，搭配圆形拉丝金色顶盖，罐身正面印有VELORA品牌字样、KOMBUCHA BARRIER CREAM产品名和50 ML / 1.7 FL. OZ.规格标注的乳霜产品全貌。",
+        "usage": "作为所有商品外包装镜头的唯一参考，还原玻璃和金属的材质质感、印刷文字与外观比例。",
+        "path": "/Users/bytedance/Documents/ChatGPT/视频创意参考/marketing-studio-experiment/output/studio/tasks/2848ce1e52c9e4e2/inputs/product/images/01.png",
+        "mime_type": "image/png",
+        "sha256": "86e28f5e9b15c7812fecbddb60618bedc97d63569ca02b2b28894e5dfa221e11",
+        "bytes": 2274938,
+        "width": 1536,
+        "height": 2048,
+        "position": 1,
+        "prompt_reference": "@图片1"
+      }
+    ]
+  },
+  "download_dir": "/Users/bytedance/Documents/ChatGPT/视频创意参考/marketing-studio-experiment/output/studio/tasks/2848ce1e52c9e4e2/result",
+  "submit_id": "2d9a2d7f-1e9c-4f70-8a7c-046c3e4e0782",
+  "gen_status": "success",
+  "fail_reason": null,
+  "submit_exit_code": 0,
+  "updated_at": "2026-10-23T03:22:21.929709+00:00",
+  "query_count": 14,
+  "last_query_exit_code": 0,
+  "query_ok": true
+}

@@ -1,0 +1,27 @@
+{
+  "status": "completed",
+  "created_at": "2026-10-22T22:33:41.663565+00:00",
+  "fingerprint": "3b04ee36196eb6fb0353998f83b57129be5da1dde71a5ca36cb0d8c666e8f55c",
+  "plan_path": "/Users/bytedance/Documents/ChatGPT/视频创意参考/marketing-studio-experiment/output/studio/tasks/cbc667f8683cfc0b/plan/001/template__2b91345057af__adapt/plan.doubao.json",
+  "plan_sha256": "26af208326e0dcaed2f7817a93e616e46cd0dbcc8907f52b52213418d57351c6",
+  "prompt_sha256": "7a4ce6fcfac26b4e666427c50c9b7f3a4e9893ba0a671b38d0aa38246b2070a5",
+  "duration_ms": 22000,
+  "assets": [
+    {
+      "name": "product_image_01",
+      "desc": "参考图主体为带细密水珠的亮黄色OLIPOP单罐，罐身印深绿色品牌名、红色苹果图案、crisp apple字样，旁侧绿色展示托上排列6罐同款汽水，托面印有6g Fiber、12 Pack文字。",
+      "usage": "用于参考产品完整罐体外观、品牌标识排版、12瓶装阵列的展示形态，确认罐身标注的核心参数信息位置。",
+      "path": "/Users/bytedance/Documents/ChatGPT/视频创意参考/marketing-studio-experiment/output/studio/tasks/cbc667f8683cfc0b/inputs/product/images/01.jpg",
+      "mime_type": "image/jpeg",
+      "sha256": "26472a4e84bf33a2f57139441b4571449a0a4c3549be0d42b183254ccc91d08e",
+      "bytes": 115210,
+      "width": 1500,
+      "height": 1500,
+      "position": 1,
+      "prompt_reference": "@图片1"
+    }
+  ],
+  "conversion_mode": "direct",
+  "validation_scope": "none",
+  "content_review": "not_performed"
+}
